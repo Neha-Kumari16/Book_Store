@@ -1,4 +1,4 @@
-# book_store
+# Book_store
 Overview Bits & Books needs a simple information management system and database to support their inventory and sales operations. The specification document and sample data will provide you with many of the user requirements.
 
 In addition, to receive full credit for your project you will be required to come up with some extensions that expand onthe requirements here and provide new functionality beyond the scope of the basic requirements.
@@ -43,4 +43,4 @@ Part II – The SQL Database 1.A binary version of your database, suitable for o
 
 5.SQL INSERT/ DELETE. A text file containing all of the sample INSERT and DELETE statements provided in your user manual, suitable for pasting into a command prompt and testing the result on your database.
 
-SQLite.
+Mysql
